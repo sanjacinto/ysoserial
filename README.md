@@ -2,6 +2,7 @@
 # ysoserial 
 
 A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization.
+Why did I fork it?  To add ability to create java sleep payloads for more of the ysoSerial payloads types.
 
 ![](https://github.com/frohoff/ysoserial/blob/master/ysoserial.png)
 
